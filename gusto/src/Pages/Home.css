@@ -1,0 +1,48 @@
+.main{
+    border: 1px solid red;
+    display: grid;
+    padding: 25px;
+    grid-template-columns: repeat(2,1fr);
+}
+ .mainp1{
+    
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: -.3px;
+    color: #222525;
+ }
+ .mainp2{
+    
+    font-weight: 500;
+    font-size: medium;
+    font-size: 15px;
+    margin-top: 25px;
+ }
+ .part1{
+    /* border: 1px solid yellow; */
+     background-color: blue;
+ }
+ .part2{
+    margin-left: 25px;
+ }
+ .part{
+    margin-top: 25px;
+    margin-bottom: 25px;
+ }
+  
+ .main2p1{
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 40px;
+    border-radius: 10px;
+    
+    
+ }
+ .main2p1>div>p{
+    /* border: 1px solid red; */
+     margin-left: -250px;
+     gap: 40px;
+ }
+  
