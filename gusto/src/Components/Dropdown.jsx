@@ -44,8 +44,13 @@ const Dropdown = () => {
    
   </MenuList>
 </Menu>
-    
-    
+  
+
+  <Menu>
+  <MenuButton  >
+  Prices
+  </MenuButton>
+  </Menu>
     
 <Menu>
   <MenuButton  >
