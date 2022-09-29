@@ -18,6 +18,7 @@ const Navbar = () => {
   /></Link>
     <Link to='/Whygusto'>Why Gusto</Link>
     <Dropdown/>
+    <Link to='/Seedemo'>see demo</Link>
     <Link to='/Signin'><Button  color='black'>Sign in</Button></Link>
     <Link to='/CreateAccount'><Button backgroundColor='#DD6B20' color='white'>Create Account</Button></Link>
     {/* <Button colorScheme='blue'>Button</Button> */}
