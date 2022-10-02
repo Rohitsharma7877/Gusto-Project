@@ -1,0 +1,8 @@
+.nav{
+    position:fixed;
+    z-index: 20;
+    background: white;
+    width: 100%;
+    top: 0px;
+}
+
